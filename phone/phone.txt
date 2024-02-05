@@ -1,3 +1,7 @@
+
 phone > this file is changes in game branch 
+// finally i have merged both the file with their code
+phone > changes pushed in movie branch
+
 
 2. display and touch screen added 
