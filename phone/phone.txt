@@ -1,1 +1,3 @@
 phone
+
+2. display and touch screen added 
